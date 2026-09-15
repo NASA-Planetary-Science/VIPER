@@ -1,0 +1,42 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'VIPER: Voyager Ion PLS Experiment Response'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: L. P.
+    family-names: Dougherty
+    affiliation: >-
+      Laboratory for Atmospheric and Space Physics,
+      University of Colorado Boulder, USA
+  - given-names: Georgios
+    family-names: Xystouris
+    orcid: 'https://orcid.org/0000-0002-6016-1573'
+    affiliation: >-
+      Department of Physics, Lancaster University, Bailrigg,
+      Lancaster LA1 4YB, UK
+  - given-names: K. M.
+    family-names: Bodisch
+    affiliation: >-
+      Laboratory for Atmospheric and Space Physics,
+      University of Colorado Boulder, USA
+  - given-names: Fran
+    family-names: Bagenal
+    orcid: 'https://orcid.org/0000-0002-3963-1614'
+    affiliation: >-
+      Laboratory for Atmospheric and Space Physics,
+      University of Colorado Boulder, USA
+    email: fran.bagenal@lasp.colorado.edu
+  - given-names: Robert J.
+    family-names: Wilson
+    email: rob.wilson@lasp.colorado.edu
+    affiliation: >-
+      Laboratory for Atmospheric and Space Physics,
+      University of Colorado Boulder, USA
+    orcid: 'https://orcid.org/0000-0001-9276-2368'
+license: MIT
+version: '0.1'
