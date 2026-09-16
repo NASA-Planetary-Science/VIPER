@@ -2,6 +2,8 @@
 
 This is the IDL code that was used to fit plasma parameters (ions & electrons; density, flow, temperature) to the Voyager PLS data at Uranus and Neptune.  The fitted plasma parameters, and raw data, may be found on the PDS in the "**vg-pls-reprocess-bagenal2021pdart**" bundle.
 
+This archive has the doi [10.5281/zenodo.22802843](https://doi.org/10.5281/zenodo.22802843) (via Zenodo), please cite with this doi if you use this software in your work.
+
 
 ## Instructions to run VIPER for Uranus and Neptune PLS data ##
 

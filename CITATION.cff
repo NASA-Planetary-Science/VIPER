@@ -38,5 +38,8 @@ authors:
       Laboratory for Atmospheric and Space Physics,
       University of Colorado Boulder, USA
     orcid: 'https://orcid.org/0000-0001-9276-2368'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22802843
+repository-code: 'https://github.com/NASA-Planetary-Science/VIPER'
 license: MIT
-version: '0.1'
